@@ -33,3 +33,8 @@ All the images used in this project are taken from Shubman Gill's public Instagr
 
     1. Make sure Python is installed.
     2. Install Flask
+
+ 📢 Disclaimer
+This blog project is for educational use only.
+The image of Shubman Gill is taken from his official Instagram @shubmangill and belongs to the original owner.
+No copyright intended. All rights go to the original creator.   
