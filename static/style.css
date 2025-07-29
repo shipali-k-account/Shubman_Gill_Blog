@@ -312,3 +312,20 @@ ul {
   list-style: none;
   padding: 0;
 }
+.simple-footer {
+  background-color: #1c1c1c;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.simple-footer a {
+  color: #f1c40f;
+  text-decoration: none;
+}
+
+.simple-footer a:hover {
+  text-decoration: underline;
+}
